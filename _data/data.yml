@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Martín Ruíz López # Nombre completo
-  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: My Full Name # Nombre completo
+  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: mrtinrl@gmail.com
-  phone: 7712199930
+  email: name@brightcoders.com
+  phone:
   website: # No agregar http://
-  linkedin: linkedin.com/in/martin-ruíz-lópez-29145919b
-  github: github.com/Martin11-RL
-  gitlab: 
-  bitbucket: 
-  twitter: '@MartinRuLop'
+  linkedin: brightcoders
+  github: brightcoders
+  gitlab:
+  bitbucket:
+  twitter: '@BrightCoders'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,22 +27,16 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
+    - idiom: German
+      level: Colloquial
+
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Problem solving
-      link: # dejar en blanco
-      
-    - item: Approachability and Helpfulness
-      link: # dejar en blanco
-      
-    - item: Creativity
-      link: # dejar en blanco
-      
     - item: Communication
       link: # dejar en blanco
 
@@ -51,16 +45,12 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-      
-    - item: Open-mindedness
-      link: # dejar en blanco
-          
-      
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    
+    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
