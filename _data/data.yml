@@ -12,14 +12,14 @@ sidebar:
   avatar: profile.jpg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: mrtinrl@gmail.com
+  phone: 7712199930
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: linkedin.com/in/martin-ruíz-lópez-29145919b
+  github: github.com/Martin11-RL
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@MartinRuLop'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,23 +27,29 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+    - item: Problem solving
+      link: # dejar en blanco
+      
+    - item: Approachability and Helpfulness
+      link: # dejar en blanco
+      
+    - item: Creativity
+      link: # dejar en blanco
+      
     - item: Communication
       link: # dejar en blanco
-
-    - item: Team Work
-      link: # dejar en blanco
-
+      
     - item: Time Management
+      link: # dejar en blanco
+      
+    - item: Open-mindedness
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
