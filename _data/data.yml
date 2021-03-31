@@ -15,8 +15,8 @@ sidebar:
   email: mrtinrl@gmail.com
   phone: 7712199930
   website: # No agregar http://
-  linkedin: linkedin.com/in/martin-ruíz-lópez-29145919b
-  github: github.com/Martin11-RL
+  linkedin: martin-ruíz-lópez-29145919b
+  github: Martin11-RL
   gitlab:
   bitbucket:
   twitter: '@MartinRuLop'
@@ -34,6 +34,9 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+    - item: Team Work
+      link: # dejar en blanco
+  
     - item: Problem solving
       link: # dejar en blanco
       
@@ -56,29 +59,35 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    My name is Martin. I am an ICT engineer with some years of experience in web development. I love programming because I believe that it is what is revolutionizing the world and the way things are done today.
+    My name is Martin. I am an Computer Systems Engineer with some years of experience in web development. I love programming because I believe that it is what is revolutionizing the world and the way things are done today.
     I am very satisfied to be able to help solve problems through Software and I have the dream of one day being able to develop something that benefits our society in some way. I like to be self-taught and learn new things.
     I like challenges and improve my work using best practices, I am an entrepreneur and I am always thinking of new things to do.
-    I love programming.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Bachelor's degree
-    university: Universidad Tecnológica de la Sierra Hidalguense
-    time: 2012 Oct - 2016
+  - degree: Ruby on Rails Web Developer Certification Program
+    university: BrightCoders Academy (Mex)
+    time: Mar 2021 - current
     details: |
+    Expert in remote work and application development using Ruby on Rails
+
+  - degree: IT Engineering
+    university: Universidad Tecnológica de la Sierra Hidalguense (Hidalgo, Mex)
+    time: 2012 - 2016
+    details: |
+    Information and Communication Technologies Engineering
       
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Web developer
-    time: 2016 - Present
+    time: 2016 - current
     company: IU-SOFT
     details: |
-      It is a small software development team where we make custom systems for clients in the area, collaborated in various projects as a web developer, where he was able to implement technologies such as Ruby On Rails and Angular.
+      It is a small software development team where we make customized systems for clients in the area, I have collaborated in various projects as a web developer, where I have been able to implement technologies such as Ruby On Rails and Angular.
 
   - role: Web developer 
-    time: Jan 2016 - May 2016
+    time: Jan 2016 - Apr 2016
     company: Vesparum Technologies
     details: |
       Professional internship project where we were instructed in the Ruby On Rails programming framework. The project was a basic CRM system in a team of two people and we were able to complete it successfully in 3 months.
@@ -93,23 +102,34 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
+    - name: HTML  
       level: 100%
 
-    - name: C/C++
+    - name: CSS
+      level: 90%
+
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby on Rails
       level: 40%
+
+    - name: Javascript
+      level: 70%
+
+    - name: Angular
+      level: 60%
+
+    - name: MYSQL
+      level: 70%
+
+    - name: PHP
+      level: 70%
+
+    - name: GIT
+      level: 50%
+
+    
 
 # NO MODIFICAR
 footer: >
